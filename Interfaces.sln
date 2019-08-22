@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{66D9FF3E-71F9-40B1-82AA-F5B62D999DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{190E7705-8BED-4B2D-84C2-C442780ACAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D9FF3E-71F9-40B1-82AA-F5B62D999DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D9FF3E-71F9-40B1-82AA-F5B62D999DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D9FF3E-71F9-40B1-82AA-F5B62D999DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D9FF3E-71F9-40B1-82AA-F5B62D999DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190E7705-8BED-4B2D-84C2-C442780ACAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190E7705-8BED-4B2D-84C2-C442780ACAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190E7705-8BED-4B2D-84C2-C442780ACAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190E7705-8BED-4B2D-84C2-C442780ACAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
